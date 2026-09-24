@@ -5,7 +5,7 @@ Website ini merupakan website portfolio pribadi yang dibuat sebagai tugas slicin
 Website ini dibuat menggunakan:
 - HTML
 - CSS
-- JavaScript (DOM)
+- JavaScript
 
 Website juga dibuat responsive agar dapat digunakan pada perangkat desktop, tablet, maupun mobile.
 
